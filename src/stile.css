@@ -16,9 +16,10 @@ footer p {
     justify-content: center;
 }
 .senhor{
-    width: 100px;
-    margin-top: 40px;
+    width: 200px;
+    margin-top: 60px;
     border-radius: 10px;
+    margin-bottom: -120px;
 }
 .logo {
     display: flex;
