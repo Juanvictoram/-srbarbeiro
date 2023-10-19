@@ -1,0 +1,21 @@
+{
+    "name": "William Barbearia",
+    "short_name": "William Barbearia",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "description": "App para mebros do mega reino calcular Tributos.",
+    "icons": [
+      
+      
+      {
+        "src": "/icon-512x512.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      }
+      
+      
+    ]
+
+    
+  }
